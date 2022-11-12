@@ -1,4 +1,5 @@
 # Dice Roll
 
 ## App Game
-### to view diceroll-benny-79f7cf.netlify.app
+### to view:  https://diceroll-benny-79f7cf.netlify.app/
+
